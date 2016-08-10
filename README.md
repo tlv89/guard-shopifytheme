@@ -9,7 +9,7 @@ Uses [Guard](https://github.com/guard/guard) to watch for changes and update Sho
 
 ## Installation
 Make sure you have installed [Guard](https://github.com/guard/guard).
-
+### Hello Serena
 Add this line to your application's Gemfile:
 
     gem 'guard-shopifytheme'
